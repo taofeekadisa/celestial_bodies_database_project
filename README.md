@@ -1,2 +1,2 @@
 # celestial_bodies_database_project
-Database development project
+SQL database development project
